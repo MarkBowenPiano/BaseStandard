@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 
-
-
 <html xmlns="http://www.w3.org/1999/xhtml" <?php language_attributes(); ?>>
 
-
+<!--[if IE 7 ]><html lang="en" class="ie ie7"><![endif]-->
+<!--[if IE 8 ]><html lang="en" class="ie ie8"><![endif]-->
+<!--[if IE 9 ]><html lang="en" class="ie ie9"><![endif]-->
 
 <head profile="http://gmpg.org/xfn/11">
 
