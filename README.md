@@ -20,3 +20,11 @@ Like 'Base', Base 'Standard' has no markup, no css (apart from a simple reset).
 - A blank Home Template to create unique homepage layouts with.
 - A simple 404 template.
 - A custom post type template with an easily customizable query loop. 
+
+For the basic version of Base, see below:
+
+<a href="https://github.com/benbuildsstuff/Base" title="Base">Base</a>
+
+For a responsive version of Base, see below:
+
+<a href="https://github.com/benbuildsstuff/baseResponsive" title="baseResponsive">baseResponsive</a>
